@@ -13,4 +13,7 @@ dev = [
     "ipython>=9.1.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.1",
+    "keras>=3.9.2",
+    "optuna>=4.3.0",
+    "tensorflow>=2.19.0",
 ]
