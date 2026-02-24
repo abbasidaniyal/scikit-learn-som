@@ -7,7 +7,7 @@ packages = ["src/som"]
 
 [project]
 name = "scikit-learn-som"
-version = "0.0.3"
+version = "0.0.5"
 description = ""
 readme = "README.md"
 requires-python = ">=3.12"
